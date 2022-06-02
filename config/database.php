@@ -15,7 +15,7 @@ return [
     |
     */
 
-    'default' => env('DB_CONNECTION', 'mysql'),
+    'default' => env('DB_CONNECTION', 'mongodb'),
 
     /*
     |--------------------------------------------------------------------------
@@ -34,6 +34,12 @@ return [
     */
 
     'connections' => [
+
+        'mongodb' => [
+            'driver' => 'mongodb',
+            'dsn' => env('DB_URI', 'mongodb+srv://agrilogs-dev20:T0mvkdk61AdPNRb9@agrilogs.08aq6.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'),
+            'database' => 'Agrilogs',
+        ],
 
         'sqlite' => [
             'driver' => 'sqlite',
