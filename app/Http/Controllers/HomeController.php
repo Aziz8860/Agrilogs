@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Models\User;
 
 class HomeController extends Controller
 {
@@ -24,5 +25,17 @@ class HomeController extends Controller
     public function index()
     {
         return view('home');
+    }
+
+    public function updateUser( Request $data )
+    {
+        $user = User::find($data["_id"]);
+        $user->name = $data['firstname'] ." ". $data['lastname'];
+        $user->firstname = $data['firstname'];
+        $user->lastname = $data['lastname'];
+        $user->email = $data['email'];
+        $user->phone = $data['phone'];
+        $user->save();
+        return redirect()->back()->with('updateUser','.');
     }
 }
