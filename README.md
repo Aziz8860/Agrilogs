@@ -21,6 +21,8 @@ Solusi yang coba kami kembangkan ialah membangun sebuah website pengantaran prod
 ## Tech Stack yang Digunakan
 <b>Website</b>
 - Frontend
+    - HTML
+    - CSS
     - Bootstrap
 - Backend
     - Laravel 9
