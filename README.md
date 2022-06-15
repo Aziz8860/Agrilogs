@@ -35,13 +35,13 @@ Solusi yang coba kami kembangkan ialah membangun sebuah website pengantaran prod
 
 ## Hasil dan Pembahasan
 ### Use Case Diagram
-
+<img src="images/UseCaseDiagram.png">
 ### Activity Diagram
-
+<img src="images/ActivityDiagram.png">
 ### Class Diagram
-
+<img src="images/ClassDiagram.png">
 ### Arsitektur Sistem
-
+<img src="images/ArsitekturSistem.png">
 ## Lampiran
 <ul>
     <li><a href="https://trello.com/b/PMG7nY7v/agrilogs-development">Trello</a></li>
