@@ -62,3 +62,4 @@ Solusi yang coba kami kembangkan ialah membangun sebuah website pengantaran prod
 </ul>
 
 ## Saran untuk Pengembangan Selanjutnya
+Alangkah lebih baik jika website dan mobile app dapat diintegrasikan dengan baik. Selain itu, pada mobile app, sebaiknya dipisah antara aplikasi admin dengan aplikasi pengguna sehingga pengguna mendapat User Experience yang lebih baik.
