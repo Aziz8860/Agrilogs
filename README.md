@@ -58,9 +58,9 @@ Solusi yang coba kami kembangkan ialah membangun sebuah website pengantaran prod
 
 ## Lampiran
 <ul>
-    <li><a href="https://trello.com/b/PMG7nY7v/agrilogs-development">Trello</a></li>
-    <li><a href="">Google Drive Mobile App</a></li>
-    <li><a href="">Slide</a></li>
+    <li><a href="https://trello.com/invite/b/PMG7nY7v/6796bbe2be7e62a4367e73b97df6e423/agrilogs-development">Trello</a></li>
+    <li><a href="https://drive.google.com/file/d/1JwnOFD0ek5QpDZzv86X4Syc5qx04chLP/view?usp=sharing">Drive Mobile App</a></li>
+    <li><a href="https://docs.google.com/presentation/d/1keXWBXbPW1A56Gnr5e1yVSFDPP9fi67A2LqS76G8o_s/edit?usp=sharing">Slide</a></li>
 </ul>
 
 ## Saran untuk Pengembangan Selanjutnya
